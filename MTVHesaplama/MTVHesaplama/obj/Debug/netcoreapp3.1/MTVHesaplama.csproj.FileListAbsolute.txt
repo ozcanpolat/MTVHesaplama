@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\bin\Debug\netcoreapp3.1\MTVHesaplama.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\bin\Debug\netcoreapp3.1\MTVHesaplama.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\bin\Debug\netcoreapp3.1\MTVHesaplama.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\bin\Debug\netcoreapp3.1\MTVHesaplama.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\bin\Debug\netcoreapp3.1\MTVHesaplama.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\bin\Debug\netcoreapp3.1\MTVHesaplama.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\MTVHesaplama\MTVHesaplama\obj\Debug\netcoreapp3.1\MTVHesaplama.genruntimeconfig.cache
